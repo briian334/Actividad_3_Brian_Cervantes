@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Actividad 3 Diseño de apps - Brian Cervantes\nTID41M",
+    "githubUrl": "https://github.com/briian334/Actividad_3_Brian_Cervantes"
   }
 }
